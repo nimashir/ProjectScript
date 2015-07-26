@@ -2,7 +2,7 @@ The data are data collected from the accelerometers from the Samsung Galaxy S sm
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-30 participants are subjected to 6 types of activity: walking, walking upstairs, walking downstairs, sitting, standing, laying. Originally, there were 7352 records of train data and 2947 records of test data. For each record, there were 561 descriptive variables. However, we are only interested to average and standard deviation of each measeurement. This reduce the total descriptive variables to 72 variables. 
+30 participants are subjected to 6 types of activities: walking, walking upstairs, walking downstairs, sitting, standing, laying. Originally, there were 7352 records of train data and 2947 records of test data. For each record, there were 561 descriptive variables. However, we are only interested to average and standard deviation of each measeurement. This reduce the total descriptive variables to 72 variables. 
 
 
 The measurements are as follows: 
